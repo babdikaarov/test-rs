@@ -1,2 +1,7 @@
 Hello World!
-`CHnage from master add new changes!
+`Change from master add new changes!
+
+My first change on GitHub
+
+
+Text from master to foot
